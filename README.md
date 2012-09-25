@@ -1,5 +1,5 @@
-_s
-===
+WP_Base_Theme
+=============
 
 This is my base theme / boilerplate as a starter set for my projects. 
 
